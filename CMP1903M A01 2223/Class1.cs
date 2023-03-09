@@ -35,7 +35,7 @@ namespace CMP1903M_A01_2223
             Console.ReadLine();     //'sleep' so the tester can read outputs
         }
         
-
+        //additional method for testing
         public static List<string> packToStringConverter()  //its inefficient but it works
         {
             List<string> cards = new List<string>();
